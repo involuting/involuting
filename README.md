@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi there 👋 im jqntes
+🇦🇺 Adelaide, Australia
 
-- 🔭 I’m currently working on an Modern Soup Project
-- 😄 Pronouns: He / Him
-- 📫 How to reach me: Discord - 
+[![My Skills](https://skillicons.dev/icons?i=java,idea )](https://skillicons.dev)
+
+-  Pronouns: He / Him
+-   Social Media
   -  Discord - jqntesss
   -  Telegram - jqntes
