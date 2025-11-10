@@ -1,10 +1,17 @@
 ## Hi there 👋 im jqntes
 🇦🇺 Adelaide, Australia
 ---      
-### Tool that are used - 
-<img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Spigot-yellow?logo=spigot&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ-purple?logo=intellijidea&logoColor=white" />
+### Tools that are used
+<a href="https://www.java.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60"/>
+</a>
+<a href="https://www.spigotmc.org/">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="60" height="60"/>
+</a>
+<a href="https://www.jetbrains.com/idea/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" width="60" height="60"/>
+</a>
+
 
 ---
 
