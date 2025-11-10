@@ -1,6 +1,7 @@
-## Hi there 👋 im jqntes
-🇦🇺 Adelaide, Australia
+
+ Adelaide, Australia
 ---      
+
 ### Tools that are used
 <a href="https://www.java.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60"/>
