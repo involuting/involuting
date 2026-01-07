@@ -10,6 +10,10 @@ AU, Adelaide, Australia
 <a href="https://www.jetbrains.com/idea/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" width="60" height="60"/>
 </a>
+<a href="https://www.lua.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="60" height="60"/>
+</a>
+
 
 
 ---
