@@ -19,13 +19,10 @@ AU, Adelaide, Australia
 ---
 
 ### Currently working on:
-- Modern Soup (Still in major development)
-- Survival (Will be in development once Modern Soup has been completed)
-- Command API (Will be public once finished)
-- Bounty (Will be public once finished)
+- Soup 
 
 ### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jqntes&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=involuting&show_icons=true&theme=dark)
 
 ### Connect with me
 
