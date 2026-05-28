@@ -1,4 +1,4 @@
-<h1 align="center">👋 Developer Portfolio</h1>
+<h1 align="center">👋 Porfolio</h1>
 
 <p align="center">
 📍 Adelaide, South Australia, AU
