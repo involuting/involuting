@@ -15,6 +15,10 @@ My main interests include:
 - Game mechanics and PvP systems
 - Minecraft plugin development
 
+Past Servers as an Developer:
+- ArchMC (3 months)
+- StewPvP (stew.gg)
+
 I enjoy designing systems that are not just functional, but structured, maintainable, and performance-aware.
 
 ---
