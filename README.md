@@ -1,10 +1,10 @@
-<h1 align="center">👋 Porfolio</h1>
+
 
 <p align="center">
 📍 Adelaide, South Australia, AU
 </p>
 
----
+
 
 ## 🧠 About Me
 
@@ -21,7 +21,7 @@ Past Servers as an Developer:
 
 I enjoy designing systems that are not just functional, but structured, maintainable, and performance-aware.
 
----
+
 
 ## 🧰 Technologies & Tools
 
@@ -47,10 +47,10 @@ I enjoy designing systems that are not just functional, but structured, maintain
 
 ## 🚀 Current Projects
 
-- **Soup** — Private development project focused on backend systems  
+- **KitPvP** — Private development project focused on backend systems  
 - **Practice** — Private development project involving gameplay systems
 
----
+
 
 ## 📊 GitHub Statistics
 
@@ -58,13 +58,11 @@ I enjoy designing systems that are not just functional, but structured, maintain
   <img src="https://github-readme-stats.vercel.app/api?username=involuting&show_icons=true&theme=tokyonight" height="170"/>
 </p>
 
----
 
-## 🌐 Portfolio Website
 
-👉 https://YOUR_USERNAME.github.io
 
----
+
+
 
 ## 📈 Contribution Graph
 
@@ -84,7 +82,7 @@ I enjoy designing systems that are not just functional, but structured, maintain
   </a>
 </p>
 
----
+
 
 ## ⚡ Developer Mindset
 
