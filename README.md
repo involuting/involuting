@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Dorian 👋</h1>
 
 <p align="center">
 Backend Software Developer • Java • Minecraft Development
