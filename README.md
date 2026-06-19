@@ -19,6 +19,9 @@ Past Servers as an Developer:
 - ArchMC (3 months)
 - StewPvP (stew.gg)
 
+Past and Current Teams:
+- Spark Studios - Freelancer (2026 - Current)
+
 I enjoy designing systems that are not just functional, but structured, maintainable, and performance-aware.
 
 
