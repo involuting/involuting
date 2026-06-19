@@ -27,7 +27,7 @@ My primary focus is Java development, with experience designing gameplay mechani
 ### Previous Developer
 
 - **ArchMC** *(3 months)*
-- **StewPvP** *(stew.gg)*
+- **StewPvP** *(stew.gg - 2 Months) *
 
 ### Current Team
 
