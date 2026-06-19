@@ -1,9 +1,5 @@
 
 <p align="center">
-Backend Software Developer • Java • Minecraft Development
-</p>
-
-<p align="center">
 📍 Adelaide, South Australia, Australia
 </p>
 
