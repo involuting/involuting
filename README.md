@@ -94,13 +94,10 @@ A modern Prop Hunt/Block Hunt implementation built for PaperMC, showcasing packe
 
 <p align="center">
 
-<a href="https://discord.com/users/423938735554428929">
+<a href="https://discord.com/users/1517516229005545645">
 <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
-<img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
 
 </p>
 
