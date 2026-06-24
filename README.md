@@ -45,7 +45,7 @@ A modern KitPvP core focused on scalable backend architecture, modular design, a
 
 Competitive Practice core featuring duels, matchmaking, arenas, kits, and modular gameplay systems.
 
-### Block Hunt *(Portfolio Project)*
+### Block Hunt *(Public)*
 
 A modern Prop Hunt/Block Hunt implementation built for PaperMC, showcasing packet-based rendering, custom disguise mechanics, and clean architecture.
 ### Capture The Flag (In Development)
