@@ -52,6 +52,8 @@ A modern Prop Hunt/Block Hunt implementation built for PaperMC, showcasing packe
 
 A modern CTF implementation built for paper and spigot featuring game mechanics and modular design 
 
+### Arcade (In Development)
+
 ---
 
 ## 🛠 Tech Stack
