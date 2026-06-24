@@ -37,7 +37,7 @@ My primary focus is Java development, with experience designing gameplay mechani
 
 ## 🚀 Featured Projects
 
-### KitPvP *(Private)*
+### KitPvP *(Public)*
 
 A modern KitPvP core focused on scalable backend architecture, modular design, and high-performance gameplay systems.
 
@@ -48,6 +48,9 @@ Competitive Practice core featuring duels, matchmaking, arenas, kits, and modula
 ### Block Hunt *(Portfolio Project)*
 
 A modern Prop Hunt/Block Hunt implementation built for PaperMC, showcasing packet-based rendering, custom disguise mechanics, and clean architecture.
+### Capture The Flag (In Development)
+
+A modern CTF implementation built for paper and spigot featuring game mechanics and modular design 
 
 ---
 
