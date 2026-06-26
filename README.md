@@ -54,7 +54,7 @@ A modern CTF implementation built for paper and spigot featuring game mechanics 
 
 ### Arcade (In Development)
 
-### UHC Meetup (In Development)
+### UHC Meetup (In Development- Public)
 
 An modern remake of UHC Meetups with new features and addons
 
