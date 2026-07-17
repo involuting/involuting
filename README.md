@@ -37,7 +37,7 @@ My primary focus is Java development, with experience designing gameplay mechani
 
 ## 🚀 Featured Projects
 
-### KitPvP *(Public)*
+### KitPvP *(Private)*
 
 A modern KitPvP core focused on scalable backend architecture, modular design, and high-performance gameplay systems.
 
