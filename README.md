@@ -148,7 +148,7 @@ I aim to build software that other developers can easily understand, extend, and
 ## 📫 Contact
 
 <p align="center">
-<a href="https://discord.com/users/1517516229005545645">
+<a href="https://discord.com/users/1538708268330000434">
 <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Contact me on Discord"/>
 </a>
 </p>
