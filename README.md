@@ -32,12 +32,13 @@ My primary focus is Java development, with experience designing gameplay mechani
 
 ### Current Team
 
-- **Spark Studios** — Freelance Developer *(2026 – Present)*
+- **NA**
 
 ### Previous Experience
 
 - **ArchMC** — Developer *(3 months)*
 - **StewPvP** — Developer *(stew.gg, 2 months)*
+- **Spark Studios** — Freelance Developer *(2026)*
 
 ---
 
