@@ -30,9 +30,9 @@ My primary focus is Java development, with experience designing gameplay mechani
 
 ## 💼 Experience
 
-### Current Team
+### Current Teams / Servers
 
-- **NA**
+- **LuxMC**
 
 ### Previous Experience
 
