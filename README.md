@@ -32,13 +32,14 @@ My primary focus is Java development, with experience designing gameplay mechani
 
 ### Current Teams / Servers
 
-- **LuxMC**
+- NA
 
 ### Previous Experience
 
 - **ArchMC** — Developer *(3 months)*
 - **StewPvP** — Developer *(stew.gg, 2 months)*
 - **Spark Studios** — Freelance Developer *(2026)*
+- **LuxMC**
 
 ---
 
