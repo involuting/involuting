@@ -39,7 +39,7 @@ My primary focus is Java development, with experience designing gameplay mechani
 - **ArchMC** — Developer *(3 months)*
 - **StewPvP** — Developer *(stew.gg, 2 months)*
 - **Spark Studios** — Freelance Developer *(2026)*
-- **LuxMC**
+- **LuxMC** - Lead Developer 
 
 ---
 
